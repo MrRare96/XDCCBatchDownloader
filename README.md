@@ -40,11 +40,11 @@ So, before this works you will have to set things up correctly:
 
 9. open settings.ini and change the search option into the name of the anime you want, including release/subgroup!
 
-9|1 change bot option to the bot you would like to download from, you can get a list from intel.haruhichan.com
+9. 1. change bot option to the bot you would like to download from, you can get a list from intel.haruhichan.com
 
-9|2 change channel option into the channel where you can access that bot, that is very important otherwise it wont work!
+9. 2. change channel option into the channel where you can access that bot, that is very important otherwise it wont work!
 
-9|3 only change resolution if the sub/releasegroup specifys it in his file name(like [horriblessubs] blabla [720p].mkv), 
+9. 3. only change resolution if the sub/releasegroup specifys it in his file name(like [horriblessubs] blabla [720p].mkv), 
    leave it blank when they do not specify it!
 
 10. start XDCCBatchDownloader.exe by typing cd /home/(user)/.irssi, or if you are already in home: cd .irssi 
