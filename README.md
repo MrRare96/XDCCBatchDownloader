@@ -77,22 +77,22 @@ FAQ:
 (I do not have any FAQ since noone uses it now, but their are some things you might crash into)
 
 1. I stopped/The program crashed/stopped in the middle of downloading an episode, how can I still get that episode?
-- Go to your .irssi folder and locate logfile.txt, open it and delete the last line, then start XDCCBatchDownloader     again. It should redownload that episode.
+Go to your .irssi folder and locate logfile.txt, open it and delete the last line, then start XDCCBatchDownloader     again. It should redownload that episode.
 
 2. The program tells me that it could not open settings.ini, logfile.txt or config, what should I do?
-- First make sure you took every file from the folder (necessary files) on this github page and put them in the same
-  folder where XDCCBatchDownloader is. That should propably be .irssi .
+First make sure you took every file from the folder (necessary files) on this github page and put them in the same
+folder where XDCCBatchDownloader is. That should propably be .irssi .
 
 3. My programmed stopped responding, CTRL-C does not exit the program. 
-- That happens most likely because it finishd downloading or that something went wrong with the irc client, anyway
-  the only thing that you could propably do is restart the terminal/ssh session, if you are directly on the rpi, you 
-  propably should restart the RPi, but I didnt test it out, so it might not crash directly on the RPi. I know that      this shouldnt happen, but I do not really know why it does that, yet.
+That happens most likely because it finishd downloading or that something went wrong with the irc client, anyway
+the only thing that you could propably do is restart the terminal/ssh session, if you are directly on the rpi, you 
+propably should restart the RPi, but I didnt test it out, so it might not crash directly on the RPi. I know that      this shouldnt happen, but I do not really know why it does that, yet.
 
 4. Where is the executable file?
-- I will put in the folder (necessary files) here on github, but you can also find it in bin/debug
+I will put in the folder (necessary files) here on github, but you can also find it in bin/debug
 
 5. I have a suggestion/ idea, where can I tell you? 
-- I will make a forum topic on haruhichan.com, there you can give me suggestions or anything else related to my         program. The link is: http://haruhichan.com/forum/ ... <- did not make it yet
+I will make a forum topic on haruhichan.com, there you can give me suggestions or anything else related to my         program. The link is: http://haruhichan.com/forum/ ... <- did not make it yet
 
 ____________________________________________________________________________________________________
 Future Vision:
