@@ -1,0 +1,4 @@
+C:\Users\Eldin's Laptop\Documents\TestReadIntel\TestReadIntel\bin\Debug\TestReadIntel.exe
+C:\Users\Eldin's Laptop\Documents\TestReadIntel\TestReadIntel\bin\Debug\TestReadIntel.pdb
+C:\Users\Eldin's Laptop\Documents\TestReadIntel\TestReadIntel\obj\x86\Debug\TestReadIntel.exe
+C:\Users\Eldin's Laptop\Documents\TestReadIntel\TestReadIntel\obj\x86\Debug\TestReadIntel.pdb
