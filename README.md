@@ -46,6 +46,7 @@ So, before this works you will have to set things up correctly:
 
 9. 3. only change resolution if the sub/releasegroup specifys it in his file name(like [horriblessubs] blabla [720p].mkv), 
    leave it blank when they do not specify it!
+9. 4. additional option to specify from which episode you want to start downloading, for example, i only want to dl episodes starting from episode 10, and then you put in 10, thats it :)
 
 10. start XDCCBatchDownloader.exe by typing cd /home/(user)/.irssi, or if you are already in home: cd .irssi 
 and then (sudo) mono XDCCBatchDownloader.exe
@@ -62,8 +63,6 @@ Multiple anime support
 Windows functionality
 
 Change Download Location 
-
-Option to specify from which to which episode you want to download
 
 ____________________________________________________________________________________________________
 How it works:
@@ -104,9 +103,24 @@ Future Vision:
 ------------------
 A popcorn time ish anime watcher / downloader. And it will be more reliable since it does not need the use of torrents, xdcc are generaly faster then torrents, and nomatter how old the file on the server is, it will have equal speeds to new one(but it has to be on the server). No more waiting until it is seeded, it will be press and play :). Now, this might never become true, since that requires a shit ton of work and I am on my own, with an programming language wich i just started at, and my study just starting, which requires a lot of time. So for now it will be a simple automated downloader :)
 
+
+____________________________________________________________________________________________________
+Updates:
+------------------
+I wont be doing version numbers, since I am lazy and I just update things occasionally, so all new things will be put here
+and I wont store older versions here, if something is not working, just go to the forum where you can tell me so.
+
+2-11-14:
+I was annoyed since I started watching an anime a few weeks ago, stopped and wanted to resume watching, and liked to use this program for dlling all the available eps, so:
+
+You are now able to specify from which episode you want to start downloading from!
+
 ____________________________________________________________________________________________________
 DISCLAIMER(or atleast what i think its called):
 ------------------
 
 I DO NOT OWN IRSSI NOR DO I OWN ANYTHING HERE BESIDES ALL THE SCRIPTS / PROGRAMS POSTED HERE!!!
 If you want to change the code, go ahead, its free for all, I just would like some credit if you think of changing/using the code for your own good :), not in money, but just like a comment in your code like: // this is created by rareamv. BUt I leave that up to you, you can do with it whatever you want.
+
+
+
