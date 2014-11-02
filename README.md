@@ -96,7 +96,7 @@ I will put in the folder (necessary files) here on github, but you can also find
 
 5. I have a suggestion/ idea, where can I tell you? 
 
-I will make a forum topic on haruhichan.com, there you can give me suggestions or anything else related to my         program. The link is: http://haruhichan.com/forum/ ... <- did not make it yet
+I will make a forum topic on haruhichan.com, there you can give me suggestions or anything else related to my         program. The link is: http://haruhichan.com/forum/showthread.php?43149-XDCCBatchDownloader-(Linux-only-for-now-RPi-compitable)
 
 ____________________________________________________________________________________________________
 Future Vision:
