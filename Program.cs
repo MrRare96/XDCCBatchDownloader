@@ -16,7 +16,6 @@ namespace XDCCBatchDownloader
 	class MainClass
 	{
 
-
 		public static void Main (string[] args)
 		{
 
@@ -240,7 +239,7 @@ namespace XDCCBatchDownloader
 
 
 
-				int y = 0;
+				int y = starteps;
 
 
 				while (y != animeepsarlength){
@@ -305,7 +304,7 @@ namespace XDCCBatchDownloader
 		public static string bot = String.Empty;
 		public static string channel = String.Empty;
 		public static string reso = String.Empty;
-		public static int sleep = 0;
+		public static int starteps = 0;
 
 		public static void getSettings(string filename){
 
@@ -323,12 +322,12 @@ namespace XDCCBatchDownloader
 				string[] resolution_param_ar = settings [2].Split ('=');
 				string[] dlspeed_param_ar = settings[3].Split('=');
 
-				string dlspeed = dlspeed_param_ar[1];
-				int dl_speed = 0;
+				string start_eps = dlspeed_param_ar[1];
+
 
 				try{
-					dl_speed = Convert.ToInt32(dlspeed);
-					sleep = 1000/dl_speed*1000;
+					starteps = Convert.ToInt32(start_eps);
+
 
 				} catch{
 					Console.WriteLine("something went wrong while retrieveing dl time");
@@ -339,7 +338,7 @@ namespace XDCCBatchDownloader
 				reso = resolution_param_ar [1].Replace(" ", "");
 
 
-				Console.WriteLine("total sleep time in ms: " + sleep);
+				Console.WriteLine("starting to download from: " + starteps);
 				Console.WriteLine ("search= " + search);
 				Console.WriteLine ("bot= " + bot);
 				Console.WriteLine ("channel = " + channel);

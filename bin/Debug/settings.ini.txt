@@ -1,12 +1,10 @@
-search = [fansubgroup] animename
+search = frostii k-on!!_-
 ^
-bot =NIBL|Arutha
+bot = Frostii|Tiger
 @
-channel =intel
+channel = frostii
 ^
-resolution =720p
-^
-start download from [episode number] = 
+resolution = 
 ^
 Change nothing starting from the ^ above this sentence,
 This section is a bit of explaining, every ^ announces
@@ -14,8 +12,7 @@ a new setting option that is not linked to the other
 an @ is a new option which is linked to the other.
 For example, to use a bot you will have to be on a channel
 on which the bot should be to, the Frostii|Tiger can only
-
-be found at the #frostii channel! you csan change the name 
+be found at the #frostii channel! you can change the name 
 of the option before the = character, but do not add any of
 the characters explained above, also do not change 
 the order in which these settings appear!
